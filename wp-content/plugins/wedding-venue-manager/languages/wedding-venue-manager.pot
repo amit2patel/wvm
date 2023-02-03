@@ -1,0 +1,7 @@
+#: wedding-venue-manager.php:123
+msgid "Page Title"
+msgstr "msgstring"
+
+#: wedding-venue-manager.php:123
+msgid "test ing "
+msgstr "msgstring2"
